@@ -18,7 +18,7 @@
 git clone https://github.com/BrianYiiiiiii/douyin-auto-upload.git
 ~~~
 
-也可以从仓库 Releases 页面下载 DouyinAutoUploadSkill_v1.0.0_*.zip。
+也可以从仓库 Releases 页面下载 DouyinAutoUploadSkill_v1.0.1_*.zip。
 
 ## 安装
 

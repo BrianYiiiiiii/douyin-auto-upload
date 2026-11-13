@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Any
 
 APP_NAME = "DouyinAutoUploadSkill"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 SKILL_ROOT = Path(__file__).resolve().parents[1]
 
 DEFAULTS: dict[str, Any] = {
