@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: MIT
 set -euo pipefail
 SKILL_ROOT="$(cd "$(dirname "$0")" && pwd)"
 echo "== douyin-auto-upload setup =="

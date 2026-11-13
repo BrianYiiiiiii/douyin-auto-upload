@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 param(
   [string]$DataRoot = "",
   [string]$Python = ""

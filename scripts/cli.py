@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """douyin-auto-upload skill CLI (v1.0).
 
 Platforms: Windows / macOS. No FastAPI/Web UI/service dependency.
